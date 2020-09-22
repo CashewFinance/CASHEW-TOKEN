@@ -7,7 +7,7 @@ This token was created to have an initial total supply of 200,000 tokens and imp
 This ensures an already minute supply is always reduced while demand is on the rise.
 
 
-CASHEW FINANCE will implement several protocols in the the future, all geared at raising demand and reducing the amount of Cashew tokens(CASH) in circulation. 
+CASHEW will implement several protocols in the the future, all geared at raising demand and reducing the amount of Cashew tokens(CASH) in circulation. 
 
 
 etherscan  contract address:
