@@ -1,6 +1,6 @@
 # CASHEW-TOKEN
 
-Cashew token(CASH) is the main token in the CASHEW FINANCE ecosystem. 
+Cashew token(CASH) is the main token in the CASHEW ecosystem. 
 
 This token was created to have an initial total supply of 200,000 tokens and implements a burn rate of 0.1% per token transfer transaction. This reduces the total supply by 0.1% of transfer value everytime a transfer transaction is sent.
 
